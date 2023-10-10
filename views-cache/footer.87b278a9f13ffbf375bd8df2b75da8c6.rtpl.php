@@ -1,4 +1,4 @@
-<footer class="rodape">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><footer class="rodape">
      <div class="container icon">
       
      Feito com amor&nbsp; <i class="far fa-heart"></i> 

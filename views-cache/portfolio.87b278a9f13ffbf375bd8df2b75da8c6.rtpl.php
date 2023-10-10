@@ -1,0 +1,124 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><section class="py-5 px-3">
+  <h2 class="mb-4">Sites</h2>
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://winesa.com.br/" target="_blank"><img src="/res/site/img/wine.jpg" class="img-fluid figure-img" alt="Wine South America" title="Wine South America">
+        <figcaption class="figure-caption">Site Wine South America | Wordpress + Html e CSS puro</figcaption></a>
+      </figure>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="http://esoilgas.com.br/" target="_blank"><img src="/res/site/img/esoilgas.jpg" class="img-fluid figure-img" alt="ES OIL & GAS" title="ES OIL & GAS">
+        <figcaption class="figure-caption">ES Oil & Gas | Wordpress + Html e CSS puro</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://mecshow.com.br/" target="_blank"><img src="/res/site/img/mecshow23.jpg" class="img-fluid figure-img" alt="MEC SHOW | Feira da Inovação Industrial" title="MEC SHOW | Feira da Inovação Industrial">
+        <figcaption class="figure-caption">Site MEC SHOW | Wordpress + Html e CSS puro</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://italianwines.com.br/" target="_blank"><img src="/res/site/img/italianwines.jpg" class="img-fluid figure-img" alt="I Love Italian Wines" title="I Love Italian Wines">
+        <figcaption class="figure-caption">Site I Love Italian Wines | Wordpress + Html e CSS puro</figcaption></a>
+      </figure>
+      </div>
+
+       <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://aureacafe.com.br/" target="_blank"><img src="/res/site/img/aureacafe.jpg" class="img-fluid figure-img" alt="Áurea Cafés Especiais" title="Áurea Cafés Especiais">
+        <figcaption class="figure-caption">Site Áurea Cafés Especiais | Wordpress + Html e CSS puro</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://cervejabanguela.com.br/" target="_blank"><img src="/res/site/img/banguela.jpg" class="img-fluid figure-img" alt="Cerveja Banguela" title="Cerveja Banguela">
+        <figcaption class="figure-caption">Site Cerveja Artesanal Banguela | Wordpress + Html e CSS puro</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://eventos.vitoriastonefair.com.br/" target="_blank"><img src="/res/site/img/site-vsf.jpg" class="img-fluid figure-img" alt="site vitoria stone fair" title="site vitoria stone fair">
+        <figcaption class="figure-caption">Site Vitoria Stone Fair | Html e CSS puro + Framework Bootstrap</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://eventos.cachoeirostonefair.com.br/site/2018/pt/home" target="_blank"><img src="/res/site/img/site-cach.jpg" class="img-fluid figure-img" alt="site Cachoeiro stone fair" title="site Cachoeiro stone fair">
+        <figcaption class="figure-caption">Site Cachoeiro Stone Fair | Html e CSS puro + Framework Bootstrap</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://eventos.mecshow.com.br/site/2019/pt/home" target="_blank"><img src="/res/site/img/site-mecshow.jpg" class="img-fluid figure-img" alt="site Mec Show" title="site Mec Show">
+        <figcaption class="figure-caption">Site Mec Show | Html e CSS puro + Framework Bootstrap</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://eventos.winesa.com.br/site/2019/pt/home" target="_blank"><img src="/res/site/img/site-wine.jpg" class="img-fluid figure-img" alt="site Wine South America" title="site Wine South America">
+        <figcaption class="figure-caption">Site Wine South America | Html e CSS puro + Framework Bootstrap</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://stonesummit.com.br/" target="_blank"><img src="/res/site/img/site-stsummit.jpg" class="img-fluid figure-img" alt="site Stone Summit" title="site Stone Summit">
+        <figcaption class="figure-caption">Site Stone Summit | WordPress + CSS puro</figcaption></a>
+      </figure>
+      </div>
+
+      <div class="col-md-4 col-sm-6 mb-4">
+        <figure class="figure">
+        <a href="https://industriasummit.com.br/" target="_blank"><img src="/res/site/img/site-indsummit.jpg" class="img-fluid figure-img" alt="site Indústria Summit" title="site Indústria Summit">
+        <figcaption class="figure-caption">Site Indústria Summit | WordPress + CSS puro</figcaption></a>
+      </figure>
+      </div>
+      
+    </div>
+  </div>
+</section>
+<section class="px-3">
+<h2>Ilustrações e Material promocional</h2>
+
+    <div class="row py-5 m-5" data-masonry='{"percentPosition": true }' style="position: relative; ">
+
+		<div class="col-sm-3 view mb-4" ><a href="img/kothian-pass.jpg" data-toggle="lightbox"><img class="img-fluid" src=/res/site/img/kothian-pass.jpg></a></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/contos-dos-mensageiros.jpg></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/grupo-oracao-24.jpg></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/comunicacao.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/joanna.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/ilustras.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/passe.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/olho.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/peixe.jpg></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/doty.png></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/dog.png></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/girl.png></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/spider.png></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/fox.png></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/sereia.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/acampilha.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/31anos.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/storieswine-1.png></div>
+    <div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/harmonia.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/aventura.png></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/estradeiros.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/cach30.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/cach302.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/regiaoes.jpg></div>
+		<div class="col-sm-3 view mb-4" ><img class="img-fluid" src=/res/site/img/ferrous.jpg></div>
+
+    </div>
+  </section>

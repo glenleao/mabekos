@@ -1,5 +1,5 @@
 {
-	"name":"glenleao/mabekos",
+	"name":"glenleao/glnstore",
 	"authors": [
 		{
 			"name": "gln dsgn&wb",
@@ -13,7 +13,7 @@
 	},
 	"autoload":{
 		"psr-4":{
-			"Mabeko\\":"vendor\\mabeko\\php-classes\\src"
+			"Gln\\":"vendor\\gln\\php-classes\\src"
 		}
 	}
 }

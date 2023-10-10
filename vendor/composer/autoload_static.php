@@ -7,16 +7,16 @@ namespace Composer\Autoload;
 class ComposerStaticInit9642a0c645575acd40fec2a4101570c2
 {
     public static $prefixLengthsPsr4 = array (
-        'M' => 
+        'G' => 
         array (
-            'Mabeko\\' => 7,
+            'Gln\\' => 4,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Mabeko\\' => 
+        'Gln\\' => 
         array (
-            0 => __DIR__ . '/..' . '/mabeko/php-classes/src',
+            0 => __DIR__ . '/..' . '/gln/php-classes/src',
         ),
     );
 

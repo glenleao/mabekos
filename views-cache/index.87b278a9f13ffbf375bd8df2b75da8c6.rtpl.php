@@ -1,4 +1,4 @@
- <div class="container perfil py-5">
+<?php if(!class_exists('Rain\Tpl')){exit;}?> <div class="container perfil py-5">
       <div class="row align-items-center">
         <div class="col-md-6 order-md-2">
           <img class="img-fluid" src="/res/site/img/perfil.jpg" data-toggle="tooltip" data-placement="left" title="Designer Gráfico, manipulação e criação de imagem, desenhos no papel, rabisco aleatório, vetorização # Comunicação Visual #">
